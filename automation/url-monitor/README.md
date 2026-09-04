@@ -37,5 +37,5 @@ Checked at : 2026-09-04 12:45:21
 
 🟡 Early experiment
 
-Part of https://github.com/0xHbeeb/lab
+Part of [0xHbeeb/lab](https://github.com/0xHbeeb/lab)
 

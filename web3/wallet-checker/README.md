@@ -30,6 +30,8 @@ python wallet_checker.py
 ```
 
 ## Example
+
+```text
 === Web3 Wallet Checker ===
 
 Wallet address: 0x...
@@ -39,8 +41,11 @@ Wallet Information
 Address : 0x...
 Network : Ethereum
 Balance : 0.123456 ETH
+```
 
 ## How it works
+
+```text
 Wallet Address
       ↓
 Validate Address
@@ -52,6 +57,7 @@ Get ETH Balance
 Format Balance
       ↓
 Display Result
+```
 
 ## Status
 🟡 Early experiment

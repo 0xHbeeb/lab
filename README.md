@@ -2,21 +2,27 @@
 
 A collection of experiments, strange ideas, and things worth understanding.
 
-Nothing here is meant to be perfect.
+I use this space to build, test, break, and learn.
 
-Some projects work.
-Some don't.
-Some shouldn't have been started.
+### exploring
 
-## experiments
-
-→ Web3  
-→ AI  
-→ Automation  
-→ Data  
+→ Web3 & on-chain systems  
+→ AI & automation  
+→ Crypto & markets  
+→ Data & open-source  
 → Random ideas
 
-## philosophy
+### experiments
+
+|    Area    |   Status   |
+|------------|------------|
+|    Web3    | Exploring  |
+|     AI     | Exploring  |
+| Automation |  Building  |
+|    Data    |  Learning  |
+|   Random   |   Always   |
+
+### philosophy
 
 Build first.  
 Understand later.

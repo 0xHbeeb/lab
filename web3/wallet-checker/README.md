@@ -32,15 +32,24 @@ python wallet_checker.py
 ## Example
 
 ```text
-=== Web3 Wallet Checker ===
+=== Wallet Overview ===
 
-Wallet address: 0x...
+Network     : Ethereum
+Address     : 0x...
 
-Wallet Information
-------------------
-Address : 0x...
-Network : Ethereum
-Balance : 0.123456 ETH
+Native Balance
+--------------
+ETH         : 0.000081
+
+Token Balances
+--------------
+USDC        : 0.000000
+USDT        : 0.000000
+
+Wallet Stats
+------------
+ETH Balance : ...
+Nonce       : ...
 ```
 
 ## How it works

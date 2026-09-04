@@ -1,4 +1,4 @@
-# Hermes + 9Router + Claude Sonnet 4.5 (Primary Only)
+# Hermes + 9Router + Claude Sonnet 4.5
 
 Simplified Windows setup for the configuration tested successfully with Hermes Agent, 9Router, Kiro OAuth, and Claude Sonnet 4.5.
 

@@ -61,10 +61,3 @@ This project is part of my personal lab for exploring Web3, Python, and on-chain
 More features may come as the experiment evolves.
 
 Part of [0xHbeeb/lab.](https://github.com/0xHbeeb/lab)
-
-### Commit message
-
-Pakai:
-
-```text
-Improve wallet checker documentation

@@ -1,0 +1,31 @@
+# Secrets
+.env
+*.env
+
+# Runtime state
+/data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Playwright / local browser profile
+**/fomo-profile/
+
+# Logs
+*.log
+logs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

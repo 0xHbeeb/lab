@@ -1,0 +1,5 @@
+discord.py>=2.5,<3
+python-dotenv>=1.0,<2
+aiohttp>=3.10,<4
+websockets>=15,<16
+playwright>=1.55,<2
